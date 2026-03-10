@@ -22,7 +22,7 @@ Visualizes sales intensity across the United States and highlights top-performin
 
 Evaluates historical profit growth and forecasting trends to support strategic planning.
 
-Tools Used
+Tools Used:
 
 Tableau
 
@@ -36,4 +36,3 @@ Data Analysis
 
 Dataset
 
-Sample Superstore Dataset (Tableau public dataset)
