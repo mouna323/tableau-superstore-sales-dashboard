@@ -36,3 +36,16 @@ Data Analysis
 
 Dataset
 
+dashboard images:
+## Sales & Profit Trend
+![Dashboard](dashboards/sales_profit_trend.png)
+
+## Product & Category Performance
+![Dashboard](dashboards/product_category_performance.png)
+
+## Regional Analysis
+![Dashboard](dashboards/regional_analysis.png)
+
+## Growth & Forecasting
+![Dashboard](dashboards/growth_forecasting.png)
+
