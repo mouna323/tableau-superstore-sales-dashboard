@@ -46,7 +46,7 @@ dashboard images:
 
 ## Product & Category Performance
 
-![Dashboard](dashboards/product_category_performance.png)
+![Dashboard](dashboards/product_category_analysis.png)
 
 
 ## Regional Analysis
