@@ -1,4 +1,4 @@
-Superstore Sales Performance Dashboard using Tableau
+Superstore Sales Performance Dashboard(Tableau)
 
 This project presents an interactive Tableau dashboard suite analyzing sales performance, product profitability, and geographic trends using the Superstore dataset.
 
@@ -22,19 +22,16 @@ Visualizes sales intensity across the United States and highlights top-performin
 
 Evaluates historical profit growth and forecasting trends to support strategic planning.
 
-Tools Used:
+## Tools Used
+- Tableau
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Data Analysis
 
-Tableau
+## Dataset
+The analysis uses the **Sample Superstore dataset**, commonly used for business intelligence and sales performance analysis.
 
-Data Visualization
-
-Business Intelligence
-
-Dashboard Design
-
-Data Analysis
-
-Dataset
 
 dashboard images:
 
